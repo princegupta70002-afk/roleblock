@@ -180,5 +180,3 @@ contract Roleblack {
         _grantRole(DEFAULT_ADMIN_ROLE, newOwner);
         owner = newOwner;
     }
-
-C:\Users\princ\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-30 041306.png
